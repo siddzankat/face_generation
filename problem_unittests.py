@@ -24,7 +24,7 @@
     <script>
       require.config({
           
-          urlArgs: "v=20170521192950",
+          urlArgs: "v=20170521231127",
           
           baseUrl: '/static/',
           paths: {
